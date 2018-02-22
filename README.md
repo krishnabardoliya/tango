@@ -1,6 +1,6 @@
 # tango
 
-for this project you will need....
+**For this project you will need....**
 
 Python 3.6.4 <br />
 Django version 1.11.4 <br />
